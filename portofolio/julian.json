@@ -1,0 +1,102 @@
+{
+	"left": {
+		"common": {
+			"title": false,
+			"image": "foto.jpg",
+			"nick" : "PicoBug",
+			"name": "Julian Prasetyo",
+			"position": "Web Developer"
+		},
+		"profile": {
+			"title": true,
+			"desc": "Saya lulusan SMKN 3 Jombang 2010 pendidikan Teknik Audio Video. Mulai masuk pemrograman setelah lulus sekolah, dimulai dari desktop pemrograman seperti VB.NET, Delphi, Python. Terjun ke dunia kerja dengan basic PHP dari tahun 2013, sebagai backend developer PHP framework CakePHP. Pengalaman kerja di Web Development lebih kurang 3 Tahun dengan kemampuan baik FrontEnd maupun BackEnd Developer. Untuk pengetahuan di bidang FrontEnd meliputi HTML5, CSS3, JavaScript, jQuery, SASS dan Gulp sebagai manajemen Asset. Sedang di sisi BackEnd meliputi PHP5/7 baik Prosedural maupun OOP, CakePHP, Yii2, Laravel, CodeIgniter. Dan beberapa CMS popular seperti Wordpress, dan Magento dasar."
+		},
+		"contact": {
+			"title": true,
+			"address": {
+				"title": true,
+				"text": "Semolowaru Elok Blok J3 Sukolilo, Surabaya"
+			},
+			"email": {
+				"title": true,
+				"text": "picobug.jp@gmail.com"
+			},
+			"phone": {
+				"title": true,
+				"text": "+62 856-9188-6624"
+			},
+			"website": {
+				"title": true,
+				"text": "https://picobug.hithub.io"
+			}
+		},
+		"skill": {
+			"title": true,
+			"creative": {
+				"title": "slider",
+				"count": 7
+			},
+			"teamwork": {
+				"title": "slider",
+				"count": 9
+			},
+			"innovate": {
+				"title": "slider",
+				"count": 8
+			},
+			"communication": {
+				"title": "slider",
+				"count": 9
+			}
+		}
+	},
+	"right": {
+		"education": {
+			"title": true,
+			"custom": {
+				"title": "list",
+				"text": {
+					"degree1": {
+						"title": "Master Degree",
+						"year": "Feb 2011 - Jun 2012",
+						"univ": "SMKN 3 Jombang",
+						"desc": "Teknik Audio Video"
+					}
+				}
+			}
+		},
+		"experience": {
+			"title": true,
+			"custom": {
+				"title": "list",
+				"text": {
+					"skill1": {
+						"title": "Kotawarna",
+						"year": "Feb 2011 - Jun 2012",
+						"job": "Web Developer",
+						"desc": "Pengembangan Web dengan fokus framework CakePHP dan beberapa Drupal CMS"
+					}
+				}
+			}
+		},
+		"software": {
+			"title": "column",
+			"photoshop": {
+				"title": "slider",
+				"count": 7
+			},
+			"teamwork": {
+				"title": "slider",
+				"count": 9
+			},
+			"innovate": {
+				"title": "slider",
+				"count": 8
+			},
+			"communication": {
+				"title": "slider",
+				"count": 9
+			}
+		}
+	}
+}
