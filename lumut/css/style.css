@@ -1,0 +1,23 @@
+.carousel-right img {
+	-webkit-transform 	: rotate(180deg);
+	-ms-transform 		: rotate(180deg);
+	-o-transform 		: rotate(180deg);
+	transform 			: rotate(180deg);
+}
+.glyphicon-chevron-left:before, .glyphicon-chevron-right:before{content: '';}
+.bg {color: #fff;padding: 24px;font-size: 42px;}
+@media (max-width: 767px) {
+	.bg {display: block;}
+}
+.bg-blue {background-color: #3498db;}
+.bg-orange {background-color: #e67e22;}
+.bg-yellow {background-color: #f1c40f;}
+.bg-green {background-color: #27ae60;}
+
+.text-purple {color: #7129a9;}
+.text-blue {color: #3498db;}
+.text-orange {color: #e67e22;}
+.text-yellow {color: #f1c40f;}
+.text-green {color: #27ae60;}
+
+.margin-help {margin-top: 24px;}
