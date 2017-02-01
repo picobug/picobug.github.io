@@ -21,3 +21,6 @@
 .text-green {color: #27ae60;}
 
 .margin-help {margin-top: 24px;}
+.navbar-default {background-color: transparent;border-color: transparent;}
+.navbar-default .navbar-toggle {border-color: #7129a9;}
+.navbar-default .navbar-toggle .icon-bar {background-color: #7129a9;}
