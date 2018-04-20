@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="en">
+<!--<![endif]-->
+
+<head>
+    <title>Test</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Responsive HTML5 Resume/CV Template for Developers">
+    <meta name="author" content="Xiaoying Riley at 3rd Wave Media">
+    <link rel="shortcut icon" href="favicon.ico">
+</head>
+
+<body>
+    <div class="celtra-ad-v3">
+        <img src="data:image/png,celtra" style="display: none" onerror="
+        (function(img) {
+            var params = {'clickUrl':'${ASYNC_CLICK_URL}','expandDirection':'undefined','preferredClickThroughWindow':'new','textColor':'#FFFFFF','barColor':'#000000','advertisementMessage':'Advertisement','scrollMessage':'Scroll to continue with content','useFullWidth':'1','clickEvent':'advertiser','iosAdvId':'${UDID}','androidAdvId':'${UDID}','externalAdServer':'AdBrain','tagVersion':'6'};
+            var req = document.createElement('script');
+            req.id = params.scriptId = 'celtra-script-' + (window.celtraScriptIndex = (window.celtraScriptIndex||0)+1);
+            params.clientTimestamp = new Date/1000;
+            params.clientTimeZoneOffsetInMinutes = new Date().getTimezoneOffset();
+            params.hostPageLoadId=window.celtraHostPageLoadId=window.celtraHostPageLoadId||(Math.random()+'').slice(2);
+            var src = 'https://ads.celtra.com/160b7419/web.js?';
+            for (var k in params) {
+                src += '&amp;' + encodeURIComponent(k) + '=' + encodeURIComponent(params[k]);
+            }
+            req.src = src;
+            img.parentNode.insertBefore(req, img.nextSibling);
+        })(this);
+    " />
+    </div>
+</body>
+
+</html>
